@@ -56,6 +56,7 @@ public class App {
                 System.out.println(flavor + ": " + highestVotes);
             }
         }
+        sc.close();
 
     }
 }
